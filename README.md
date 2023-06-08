@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pathum</h1>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE2MDVlYzllN2Q4NGU2OTUxZDYxNGU1OTY5YWE0YTg0NTg4YTliMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" alt="gif">
+<img style="border: 1px solid red;width: 500px;position: relative;left: 50%;transform: translateX(-50%);" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE2MDVlYzllN2Q4NGU2OTUxZDYxNGU1OTY5YWE0YTg0NTg4YTliMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" alt="gif">
 
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 

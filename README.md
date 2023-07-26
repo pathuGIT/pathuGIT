@@ -30,9 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathugit&show_icons=true&locale=en&layout=compact" alt="pathugit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pathugit&show_icons=true&locale=en" alt="pathugit" /></p>
-<hr>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pathugit&" alt="pathugit" /></p>
 <hr>
 <img align="center" src="https://cdnb.artstation.com/p/assets/images/images/024/425/621/original/lourdjim-diazon-utm.gif?1582381618" alt="pathuGIT" />

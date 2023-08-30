@@ -19,17 +19,28 @@
 
 <h3 align="left">Connect with me:</h3>
 
+<span align="center">
+<img width="150px" src="./assets/img/pablo-26.gif" />
+<img align="left" width="40px" src="./assets/img/pablo-33.gif" />
+<img align="right" width="80px" src="./assets/img/pablo-42.gif" />
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula)
+ <br /><br/>
+<img align="left" width="40px" src="./assets/img/pablo-34.gif" />
+<img align="left" width="100px" src="./assets/img/pablo-4.gif" />
+
+<img align="right" width="150px" src="./assets/img/pablo-16.gif" />
+<br />
+</span>
+
 <p align="left">
 
 <a href="[https://linkedin.com/in/https://www.linkedin.com/in/gihan-sachith-82276a217/](https://www.linkedin.com/in/pathum-lakshan-576a15246/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gihan-sachith-82276a217/" height="30" width="40" /></a>
 </p>
 <hr>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
-<hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathugit&show_icons=true&locale=en&layout=compact" alt="pathugit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pathugit&" alt="pathugit" /></p>
 <hr>
 <img align="center" src="https://cdnb.artstation.com/p/assets/images/images/024/425/621/original/lourdjim-diazon-utm.gif?1582381618" alt="pathuGIT" />

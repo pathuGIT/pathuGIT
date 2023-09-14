@@ -10,7 +10,7 @@
 
 - 🔭 I'm passionate about software development and creating web applications that solve real-world problems.
 - 🌱 I'm constantly learning and exploring new technologies to stay up-to-date in the ever-evolving tech world.
-- 🎓 I hold a degree in [BICT] from [University Of Ruhuna].
+- 🎓 I am undergraduate of university of ruhuna 
 - 📫 How to reach me **pathumwannige@gmail.com**
 
 <!--horizontal divider(gradiant)-->

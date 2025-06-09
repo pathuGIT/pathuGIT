@@ -1,7 +1,7 @@
 
 <h1 align="center">Hellow there👋 , I'm Pathum Lakshan</h1>
 <hr>
-<h3 align="center">I'm a Software Developer and Full Stack Web Developer. Welcome to my GitHub profile!</h3>
+<h3 align="center">I'm making my path for Full Stack Development</h3>
 <hr>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 

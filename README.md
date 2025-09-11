@@ -11,7 +11,7 @@
 - 🔭 I'm passionate about software development and creating web applications that solve real-world problems.
 - 🌱 I'm constantly learning and exploring new technologies to stay up-to-date in the ever-evolving tech world.
 - 🎓 I am undergraduate of university of ruhuna 
-- 📫 How to reach me **pathumwannige@gmail.com**
+- 📫 How to reach me **[pathumwannige.me](https://www.pathumwannige.me/)**
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

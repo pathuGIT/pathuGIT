@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pathum Lakshan (pathuGIT)</h1>
 <h3 align="center">Software Engineer • Full-Stack Developer • Machine Learning Enthusiast</h3>
+<p align="center">
+  <a href="https://github.com/nisalgunawardhana/docker-101/issues/19">
+    <img src="https://raw.githubusercontent.com/nisalgunawardhana/docker-101/main/images/badge.png" width="130" alt="Docker 101 Badge" />
+  </a>
+</p>
 
 ---
 
